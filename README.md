@@ -1,4 +1,5 @@
 # Git-FLow
 ## GERENCIAMENTO DE CONFIGURAÇÃO E MUDANÇA
 
-- Nova funcionalidade
+- Nova funcionalidade!
+- Corrigindo um bug 
